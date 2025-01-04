@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in HTML and JavaScript related to selecting elements by ID. The bug arises from an incorrect way of selecting an element with an ID that contains a hyphen. The `getElementById()` method is case-sensitive and expects the exact ID without any typos.
